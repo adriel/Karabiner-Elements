@@ -369,6 +369,7 @@ constexpr value_t al_power_status(0x01b5);
 constexpr value_t al_image_browser(0x01b6);
 constexpr value_t al_audio_browser(0x01b7);
 constexpr value_t al_movie_browser(0x01b8);
+constexpr value_t al_prime_video_browser(0x0108);
 constexpr value_t al_digital_rights_manager(0x01b9);
 constexpr value_t al_digital_wallet(0x01ba);
 constexpr value_t al_instant_messaging(0x01bc);

@@ -80,6 +80,7 @@ constexpr std::pair<const mapbox::eternal::string, const pqrs::hid::usage::value
     {"al_image_browser", pqrs::hid::usage::consumer::al_image_browser},
     {"al_audio_browser", pqrs::hid::usage::consumer::al_audio_browser},
     {"al_movie_browser", pqrs::hid::usage::consumer::al_movie_browser},
+    {"al_prime_video_browser", pqrs::hid::usage::consumer::al_prime_video_browser},
     {"al_digital_rights_manager", pqrs::hid::usage::consumer::al_digital_rights_manager},
     {"al_digital_wallet", pqrs::hid::usage::consumer::al_digital_wallet},
     {"al_instant_messaging", pqrs::hid::usage::consumer::al_instant_messaging},

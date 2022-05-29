@@ -2677,6 +2677,11 @@
     },
     {
         "not_to": true,
+        "label": "al_prime_video_browser",
+        "data": [{ "consumer_key_code": "al_prime_video_browser" }]
+    },
+    {
+        "not_to": true,
         "label": "al_digital_rights_manager",
         "data": [{ "consumer_key_code": "al_digital_rights_manager" }]
     },
